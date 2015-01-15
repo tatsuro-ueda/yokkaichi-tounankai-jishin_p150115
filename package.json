@@ -12,5 +12,8 @@
     "grunt-shell": "~0.2.2",
     "grunt-regarde": "~0.1.1",
     "matchdep": "~0.1.1"
+  },
+  "scripts": {
+    "start": "gulp deploy"
   }
 }
